@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class coddy4 {
+public class atlas {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("NUM: ");
